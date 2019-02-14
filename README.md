@@ -1,6 +1,6 @@
 # Euler4_Python
 
-Problem 3 of Project Euler solved in Python 3 using PyCharm
+Problem 4 of Project Euler solved in Python 3 using PyCharm
 
 ## Project Euler Problem 4 -- Largest Palindrome Product
 
