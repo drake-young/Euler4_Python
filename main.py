@@ -103,7 +103,7 @@ def problem_4( ):
     end_time        =  default_timer( )
     execution_time  =  ( end_time - start_time ) * 1000
 
-    # Display Results 
+    # Display Results
     print( "   Largest Palindrome made from the product of two 3-digit numbers:   %d"      %  result )
     print( "   Computation Time:                                                  %.3fms"  %  execution_time )
     return
